@@ -1,0 +1,3 @@
+/home/mrtuxa/codecrafters/c/docker/codecrafters-docker-c/cmake-build-debug/CMakeFiles/codecrafters_docker_c.dir
+/home/mrtuxa/codecrafters/c/docker/codecrafters-docker-c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mrtuxa/codecrafters/c/docker/codecrafters-docker-c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
